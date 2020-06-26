@@ -12,7 +12,7 @@
           <start:DesktopApplicationTile Size="2x2" Column="3" Row="2" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\Word.lnk" />
         </start:Group>
         <start:Group Name="">
-          <start:DesktopApplicationTile Size="2x2" Column="1" Row="0" DesktopApplicationLinkPath="%APPDATA%\Microsoft\Windows\Start Menu\Programs\Microsoft Teams.lnk" />
+          <start:DesktopApplicationTile Size="2x2" Column="1" Row="0" DesktopApplicationID="com.squirrel.Teams.Teams" />
           <start:DesktopApplicationTile Size="2x2" Column="3" Row="0" DesktopApplicationLinkPath="%ALLUSERSPROFILE%\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk" />
         </start:Group>
         <start:Group Name="">
