@@ -3,7 +3,7 @@
   <DefaultLayoutOverride>
     <StartLayoutCollection>
       <defaultlayout:StartLayout GroupCellWidth="6">
-        <start:Group Name="proQure | full service inkoopbureau">
+        <start:Group Name="proQure">
           <start:DesktopApplicationTile Size="2x2" Column="0" Row="4" DesktopApplicationID="Microsoft.Office.EXCEL.EXE.15" />
           <start:DesktopApplicationTile Size="2x2" Column="2" Row="4" DesktopApplicationID="Microsoft.Office.POWERPNT.EXE.15" />
           <start:DesktopApplicationTile Size="2x2" Column="2" Row="0" DesktopApplicationID="Chrome" />
